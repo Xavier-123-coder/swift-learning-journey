@@ -12,3 +12,13 @@ I’m currently building small apps like:
 
 Goal:
 To become a software engineer in the future.
+## Weekly Schedule
+
+- Monday: Swift building
+- Tuesday: Learning concepts
+- Wednesday: Swift building
+- Thursday: Creative project
+- Friday: Swift building
+
+## Current Focus
+Building small SwiftUI apps and understanding how state updates the UI.
