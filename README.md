@@ -1,5 +1,3 @@
-# swift-learning-journey
-
 # Swift Learning Journey 🚀
 
 Hi, I’m 12 and learning Swift and SwiftUI.
